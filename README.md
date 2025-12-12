@@ -1,4 +1,4 @@
-# Pairs Trading Lab
+# Pairs Trading simulations
 
 An educational algorithmic trading project that implements a basic **pairs trading** strategy with:
 
