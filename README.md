@@ -1,6 +1,6 @@
-# Pairs Trading simulations
+# Pairs Trading Simulations
 
-A Fun algorithmic trading project that implements a basic **pairs trading** strategy with:
+A fun algorithmic trading project that implements a basic **pairs trading** strategy with:
 
 - Cointegration-style hedge ratio estimation (OLS on log prices)
 - Z-score based entry/exit rules
